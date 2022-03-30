@@ -15,7 +15,7 @@ const Contact = () => {
                         <ContactItems
                             label='Mail'
                             value='lawl@my.id'
-                            icon='Mail.svg'
+                            icon='mail.svg'
                             className='mt-6 md:w-15'
                         />
 
